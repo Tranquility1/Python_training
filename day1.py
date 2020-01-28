@@ -2,6 +2,7 @@
 
 #integers
 i = 3
+m = 10
 print (i)
 
 #using a function
